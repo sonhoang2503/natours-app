@@ -1,7 +1,7 @@
 
 # Natours 
 
-An awesome tour booking site  is specially designed for anyone who love travelling !!
+### An awesome tour booking site  is specially designed for anyone who love travelling !!
 
 Live demo   : https://natours-hoangnguyen.herokuapp.com/ ;
 
