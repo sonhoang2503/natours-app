@@ -3,9 +3,8 @@
 
 ### An awesome tour booking site  is specially designed for anyone who love travelling !!
 
-Live demo   : https://natours-hoangnguyen.herokuapp.com/ ;
+Live demo   : https://natours-hoangnguyen.herokuapp.com
 
-API documentation: https://documenter.getpostman.com/view/13036021/TWDfEZ3P
 
 ## Key features
 
